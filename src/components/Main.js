@@ -159,7 +159,7 @@ const Main = () => {
                     </div>
                     <a
                       className="sc-7f0a663d-1 leYKzo BarON"
-                      href="vault/research/liquidloans/start-here"
+                      href="https://www.liquidloans.io/vault/research/liquidloans/start-here"
                       target="_blank">
                       START HERE
                     </a>
@@ -181,14 +181,14 @@ const Main = () => {
                       }}>
                       <div className="sc-7f0a663d-11 dgwACn">
                         <nav className="desktop-menu ">
-                          <a href="dapp-365a2544792dac70.js">
+                          <a href="https://www.liquidloans.io/dapp">
                             <div className="Mi Mi17" />
                             The Dapp
                           </a>
                           <div className="menuFixer001">
                             <a
                               className="hide-Mobile"
-                              href="price-06d38cbf37b77849.js">
+                              href="https://www.liquidloans.io/price">
                               Price{" "}
                               <svg
                                 stroke="currentColor"
@@ -226,16 +226,16 @@ const Main = () => {
                                   className="MenuBoxInner BlgMenu02 SmFix01"
                                   style={{ paddingBottom: "0" }}>
                                   <div className="arrow-up  Arrow4 down" />
-                                  <a href="price-06d38cbf37b77849.js">
+                                  <a href="https://www.liquidloans.io/price">
                                     <div className="Mi Mi28" /> All Charts
                                   </a>
-                                  <a href="price/pls-e7331746c535b3a4.js">
+                                  <a href="https://www.liquidloans.io/price/pls">
                                     <div className="Mi Mi25" /> Price of PLS
                                   </a>
-                                  <a href="price/usdl-b04139944d19c35a.js">
+                                  <a href="https://www.liquidloans.io/price/usdl">
                                     <div className="Mi Mi26" /> Price of USDL
                                   </a>
-                                  <a href="price/loan-1e89b2d40e56250b.js">
+                                  <a href="https://www.liquidloans.io/price/loan">
                                     <div className="Mi Mi27" /> Price of LOAN
                                   </a>
                                 </div>
@@ -337,15 +337,15 @@ const Main = () => {
                                       <div className="Mi Mi15" />
                                       Testnet
                                     </a>
-                                    <a href="how-it-works-af8bea25c85a385b.js">
+                                    <a href="https://www.liquidloans.io/how-it-works">
                                       <div className="Mi Mi1" />
                                       How It Works
                                     </a>
-                                    <a href="faq-f07d3a645ee93a65.js">
+                                    <a href="https://www.liquidloans.io/faq">
                                       <div className="Mi Mi4" />
                                       Common FAQs
                                     </a>
-                                    <a href="whitepaper-3758b289b3cff5ad.js">
+                                    <a href="https://www.liquidloans.io/whitepaper">
                                       <div className="Mi Mi16" />
                                       Whitepaper
                                     </a>
@@ -414,29 +414,29 @@ const Main = () => {
                                 <div className="MenuBoxInner">
                                   <div className="arrow-up Arrow2 down" />
                                   <div className="NavSubBX">
-                                    <a href="vault/videos-09ee46d5e6a65139.js">
+                                    <a href="https://www.liquidloans.io/vault/videos">
                                       <div className="Mi Mi23" />
                                       Videos
                                     </a>
-                                    <a href="vault/podcasts-9befc6c76034e8c6.js">
+                                    <a href="https://www.liquidloans.io/vault/podcastss">
                                       <div className="Mi Mi7-v2" />
                                       Podcasts
                                     </a>
                                     <a
                                       target="_blank"
-                                      href="quiz-0342edaa8b8b0c48.js">
+                                      href="https://www.liquidloans.io/quiz">
                                       <div className="Mi Mi1" />
                                       Quiz
                                     </a>
-                                    <a href="downloads-1e8f2b1c54cc68e4.js">
+                                    <a href="https://www.liquidloans.io/downloads">
                                       <div className="Mi Mi13" />
                                       Logos
                                     </a>
-                                    <a href="resources-acd697e4e75b200f.js">
+                                    <a href="https://www.liquidloans.io/resources">
                                       <div className="Mi Mi1" />
                                       Resources
                                     </a>
-                                    <a href="graphics-e3d6fc17495eb2b8.js">
+                                    <a href="https://www.liquidloans.io/resources">
                                       <div className="Mi Mi10" />
                                       Graphics
                                     </a>
@@ -448,19 +448,19 @@ const Main = () => {
                                       <div className="Mi Mi20" />
                                       Style Guide
                                     </a>
-                                    <a href="about-pulsechain-859e0cd41014c6ce.js">
+                                    <a href="https://www.liquidloans.io/about-pulsechain">
                                       <div className="Mi Mi7" />
                                       PulseChain
                                     </a>
-                                    <a href="about-22cc9620f348d89f.js">
+                                    <a href="https://www.liquidloans.io/about">
                                       <div className="Mi Mi6" />
                                       About Us
                                     </a>
-                                    <a href="press-46d254636d7bd1b4.js">
+                                    <a href="https://www.liquidloans.io/press">
                                       <div className="Mi Mi22" />
                                       Press & Media
                                     </a>
-                                    <a href="connect-60181175b16c95f6.js">
+                                    <a href="https://www.liquidloans.io/connect">
                                       <div className="Mi Mi11" />
                                       Connect
                                     </a>
@@ -533,7 +533,7 @@ const Main = () => {
               </div>
             </div>
             <div className="sc-7f0a663d-0 sc-7f0a663d-4 jrgBWC">
-              <a className="tickerBX" href="price-06d38cbf37b77849.js">
+              <a className="tickerBX" href="https://www.liquidloans.io/price">
                 <img
                   src="/media/pls_pICO.399526b3.png"
                   alt="pls token"
@@ -542,7 +542,7 @@ const Main = () => {
                 />
                 <p>${/* */}0</p>
               </a>
-              <a className="tickerBX" href="price-06d38cbf37b77849.js">
+              <a className="tickerBX" href="https://www.liquidloans.io/price">
                 <img
                   src="/media/USDL-prICO.684a1090.png"
                   alt="plsx token"
@@ -551,7 +551,7 @@ const Main = () => {
                 />
                 <p>${/* */}0.0000000</p>
               </a>
-              <a className="tickerBX" href="price-06d38cbf37b77849.js">
+              <a className="tickerBX" href="https://www.liquidloans.io/price">
                 <img
                   src="/media/LOAN-prICO.5ab73201.png"
                   alt="inc token"
@@ -560,7 +560,7 @@ const Main = () => {
                 />
                 <p>${/* */}0.0000000</p>
               </a>
-              <a className="tickerBX" href="price-06d38cbf37b77849.js">
+              <a className="tickerBX" href="https://www.liquidloans.io/price">
                 <img
                   src="/media/statistics.1a433cb2.png"
                   alt="All Charts"
@@ -659,7 +659,7 @@ const Main = () => {
                     </svg>
                     WATCH VIDEO
                   </a>
-                  <a className="bn-btn" href="whitepaper-3758b289b3cff5ad.js">
+                  <a className="bn-btn" href="https://www.liquidloans.io/whitepaper">
                     <img
                       alt="BorrowArrow"
                       loading="lazy"
@@ -1624,7 +1624,7 @@ const Main = () => {
                           />
                           Testnet
                         </a>
-                        <a href="dapp-365a2544792dac70.js">
+                        <a href="https://www.liquidloans.io/dapp">
                           <img
                             alt="arrow"
                             loading="lazy"
@@ -1638,7 +1638,7 @@ const Main = () => {
                           />
                           The Dapp
                         </a>
-                        <a href="how-it-works-af8bea25c85a385b.js">
+                        <a href="https://www.liquidloans.io/how-it-works">
                           <img
                             alt="foo arrow"
                             loading="lazy"
@@ -1652,7 +1652,7 @@ const Main = () => {
                           />
                           How It Works
                         </a>
-                        <a href="faq-f07d3a645ee93a65.js">
+                        <a href="https://www.liquidloans.io/faq">
                           <img
                             alt="foo arrow"
                             loading="lazy"
@@ -1666,7 +1666,7 @@ const Main = () => {
                           />
                           Common FAQs
                         </a>
-                        <a href="whitepaper-3758b289b3cff5ad.js">
+                        <a href="https://www.liquidloans.io/whitepaper">
                           <img
                             alt="arrow"
                             loading="lazy"
@@ -1754,7 +1754,7 @@ const Main = () => {
                           />
                           PulseChain Safe
                         </a>
-                        <a href="about-pulsechain-859e0cd41014c6ce.js">
+                        <a href="https://www.liquidloans.io/about-pulsechain">
                           <img
                             alt="arrow"
                             loading="lazy"
@@ -1768,7 +1768,7 @@ const Main = () => {
                           />
                           About PulseChain
                         </a>
-                        <a href="price-06d38cbf37b77849.js">
+                        <a href="https://www.liquidloans.io/price">
                           <img
                             alt="arrow"
                             loading="lazy"
@@ -1782,7 +1782,7 @@ const Main = () => {
                           />
                           Price
                         </a>
-                        <a href="connect-60181175b16c95f6.js">
+                        <a href="https://www.liquidloans.io/connect">
                           <img
                             alt="arrow"
                             loading="lazy"
@@ -1817,7 +1817,7 @@ const Main = () => {
                           />
                           Vault
                         </a>
-                        <a href="quiz-0342edaa8b8b0c48.js">
+                        <a href="https://www.liquidloans.io/quiz">
                           <img
                             alt="foo arrow"
                             loading="lazy"
@@ -1833,7 +1833,7 @@ const Main = () => {
                         </a>
                         <a
                           target="_blank"
-                          href="vault/research/liquidloans/challenge">
+                          href="https://www.liquidloans.io/vault/research/liquidloans/challenge">
                           <img
                             alt="foo arrow"
                             loading="lazy"
@@ -1847,7 +1847,7 @@ const Main = () => {
                           />
                           Challenge
                         </a>
-                        <a href="vault/videos-09ee46d5e6a65139.js">
+                        <a href="https://www.liquidloans.io/vault/videos">
                           <img
                             alt="foo arrow"
                             loading="lazy"
@@ -1861,7 +1861,7 @@ const Main = () => {
                           />
                           Videos
                         </a>
-                        <a href="vault/podcasts-9befc6c76034e8c6.js">
+                        <a href="https://www.liquidloans.io/vault/podcasts">
                           <img
                             alt="foo arrow"
                             loading="lazy"
@@ -1890,7 +1890,7 @@ const Main = () => {
                           />
                           Education
                         </a>
-                        <a href="vault/research/index-4847f9316ac2ed00.js">
+                        <a href="https://www.liquidloans.io/vault/research/index">
                           {" "}
                           <img
                             alt="foo arrow"
@@ -1923,7 +1923,7 @@ const Main = () => {
                           />
                           Style Guide
                         </a>
-                        <a href="graphics-e3d6fc17495eb2b8.js">
+                        <a href="https://www.liquidloans.io/graphics">
                           <img
                             alt="arrow"
                             loading="lazy"
@@ -1937,7 +1937,7 @@ const Main = () => {
                           />
                           Graphics
                         </a>
-                        <a href="resources-acd697e4e75b200f.js">
+                        <a href="https://www.liquidloans.io/resources">
                           <img
                             alt="arrow"
                             loading="lazy"
@@ -1951,7 +1951,7 @@ const Main = () => {
                           />
                           Resources
                         </a>
-                        <a href="downloads-1e8f2b1c54cc68e4.js">
+                        <a href="https://www.liquidloans.io/downloads">
                           <img
                             alt="arrow"
                             loading="lazy"
@@ -1965,7 +1965,7 @@ const Main = () => {
                           />
                           Logos
                         </a>
-                        <a href="about-22cc9620f348d89f.js">
+                        <a href="https://www.liquidloans.io/about">
                           <img
                             alt="arrow"
                             loading="lazy"
@@ -1979,7 +1979,7 @@ const Main = () => {
                           />
                           About Us
                         </a>
-                        <a href="press-46d254636d7bd1b4.js">
+                        <a href="https://www.liquidloans.io/press">
                           <img
                             alt="arrow"
                             loading="lazy"
@@ -2016,17 +2016,17 @@ const Main = () => {
                   <div className="sc-772ec1a3-0 sc-772ec1a3-8 bcBwzY">
                     <a
                       aria-label="Website Terms and Conditions"
-                      href="terms-and-conditions-aad062cc98bca358.js">
+                      href="https://www.liquidloans.io/terms-and-conditions">
                       Website Terms
                     </a>
                     <a
                       aria-label="Website Protocols"
-                      href="protocol-disclaimer-5631eecce0096556.js">
+                      href="https://www.liquidloans.io/protocol-disclaimer">
                       Protocol Disclaimer
                     </a>
                     <a
                       aria-label="Website Privacy Policy"
-                      href="privacy-policy-03bfb04d9aec4c7d.js">
+                      href="https://www.liquidloans.io/privacy-policy">
                       Privacy Policy
                     </a>
                   </div>
